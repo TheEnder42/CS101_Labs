@@ -1,0 +1,39 @@
+Example 1
+Prediction:
+Experiment:
+Explanation/Theory:
+
+Example 2
+Prediction:
+Experiment:
+Explanation/Theory:
+
+Example 3
+Prediction:
+Experiment:
+Explanation/Theory:
+
+Example 4
+Prediction:
+Experiment:
+Explanation/Theory:
+
+Example 5
+Prediction:
+Experiment:
+Explanation/Theory:
+
+Example 6
+Prediction:
+Experiment:
+Explanation/Theory:
+
+Example 7
+Prediction:
+Experiment:
+Explanation/Theory:
+
+Example 8
+Prediction:
+Experiment:
+Explanation/Theory:

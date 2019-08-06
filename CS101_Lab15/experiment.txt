@@ -1,0 +1,40 @@
+Part 1
+======
+
+
+
+
+
+Prediction:
+\\
+ \\
+  \\
+   \\
+    \\
+     \\
+      \\
+       \\
+        \\
+         \\
+	  \\
+	   \\
+ 	    \\
+ 	     \\
+  	      \\
+	       \\
+	        \\
+ 	         \\
+ 	          \\
+	           \\
+
+Result:
+They were all \ instead of \\ but in the same pattern as predicted. The first \ is an escape
+character and the second \ gets printed.
+
+
+Part 2
+======
+Predction:
+Nothing but spaces will be printed for 20 lines.
+
+Result:I was right

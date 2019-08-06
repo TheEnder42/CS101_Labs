@@ -1,0 +1,4 @@
+Always switch: won 80% of 10 games
+Always stay: won 20% of 10 games
+
+Bettery stratagy: Switch
